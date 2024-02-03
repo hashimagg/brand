@@ -6,25 +6,72 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 ---
 
-## Logo
+## Brand
 
-![Screenshot #01](logo/creepycrappyshow_icon_400_loop_transparent.gif)
-![Screenshot #01](logo/creepycrappyshow_logo_1024_BLACK.svg)
+### Hashima Islands
+
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>Logo</th>
+  </tr>
+  <tr>
+    <td><img src="brand/hashima_icon_1024_transparent.svg" width="200" height="auto"/></td>
+    <td><img src="brand/hashima_logo_1024_black.svg" width="200" height="auto"/></td>
+  </tr>
+  <tr style="background-color: #000000">
+    <td><img src="brand/hashima_icon_1024_transparent.svg" width="200" height="auto"/></td>
+    <td><img src="brand/hashima_logo_1024_white.svg" width="200" height="auto"/></td>
+  </tr>
+</table>
+
+---
+
+### CreepyCrappyShow — Loop
+
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>Wordmark</th>
+  </tr>
+  <tr>
+    <td><img src="brand/ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/ccs_word_1024_black.svg" width="200" height="auto"/></td>
+  </tr>
+  <tr style="background-color: #000000">
+    <td><img src="brand/ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/ccs_word_1024_white.svg" width="200" height="auto"/></td>
+  </tr>
+</table>
+
+---
+
+### CreepyCrappyShow — Pause
+
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>Wordmark</th>
+  </tr>
+  <tr>
+    <td><img src="brand/ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/ccs_word_1024_black.svg" width="200" height="auto"/></td>
+  </tr>
+  <tr style="background-color: #000000">
+    <td><img src="brand/ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/ccs_word_1024_white.svg" width="200" height="auto"/></td>
+  </tr>
+</table>
 
 ---
 
 ## Typography
 
 
-**[Kosugi Maru 🡥](https://fonts.google.com/specimen/Kosugi+Maru)** Designed by MOTOYA
+**Hashima Islands:** **[Kosugi Maru 🡥](https://fonts.google.com/specimen/Kosugi+Maru)** Designed by MOTOYA
+**CreepyCrappyShow:** **[Clarendon 🡥](https://fonts.adobe.com/fonts/clarendon-text)** Designed by Patrick Griffin
 
 </small>
-
----
-
-## OBS Layer
-
-**[Download .HTML file 🡥](logo/hashima_logo_animated.html)**
 
 ---
 
