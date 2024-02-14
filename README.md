@@ -22,18 +22,18 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
   <tr>
     <td>
       <strong>
-        <a href="#">.SVG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-hashima_icon_1024_transparent.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="#">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-hashima_icon_1024_transparent.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
     <td>
       <strong>
-        <a href="#">.SVG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-hashima_logo_1024_black.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="#">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-hashima_logo_1024_black.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
   </tr>
@@ -51,18 +51,18 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
   <tr style="background-color: #000000">
     <td>
       <strong>
-        <a href="#">.SVG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-hashima_icon_1024_transparent.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="#">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-hashima_icon_1024_transparent.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
     <td>
       <strong>
-        <a href="#">.SVG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-hashima_logo_1024_white.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="#">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-hashima_logo_1024_white.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
   </tr>
