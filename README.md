@@ -88,10 +88,10 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
     </td>
     <td>
       <strong>
-        <a href="https://github.com/hashimagg/brand/raw/main/brand/gif-ccs_icon_400_loop_transparent.gif" target="_blank">.GIF 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-ccs_logo_1024_black.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-ccs_icon_400_transparent.png" target="_blank">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-ccs_logo_1024_black.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
   </tr>
@@ -99,8 +99,8 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 <table>
   <tr style="background-color: #000000">
-    <td><img src="brand/gif-ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
-    <td><img src="brand/svg-ccs_logo_1024_black.svg" width="200" height="auto"/></td>
+    <td><img src="brand/gif-ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/svg-ccs_logo_1024_white.svg" width="200" height="auto"/></td>
   </tr>
   <tr style="background-color: #000000">
     <td>
@@ -113,10 +113,10 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
     </td>
     <td>
       <strong>
-        <a href="https://github.com/hashimagg/brand/raw/main/brand/gif-ccs_icon_400_pause_transparent.gif" target="_blank">.GIF 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/svg-ccs_logo_1024_white.svg" target="_blank">.SVG 🡥</a>
       </strong> /
       <strong>
-        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-ccs_icon_400_transparent.png" target="_blank">.PNG 🡥</a>
+        <a href="https://github.com/hashimagg/brand/raw/main/brand/png-ccs_logo_1024_white.png" target="_blank">.PNG 🡥</a>
       </strong>
     </td>
   </tr>
