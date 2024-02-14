@@ -12,16 +12,59 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 <table>
   <tr>
-    <th>Icon</th>
-    <th>Logo</th>
+    <td>
+      <img src="brand/svg-hashima_icon_1024_transparent.svg" width="200" height="auto"/>
+    </td>
+    <td>
+      <img src="brand/svg-hashima_logo_1024_black.svg" width="200" height="auto"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="brand/hashima_icon_1024_transparent.svg" width="200" height="auto"/></td>
-    <td><img src="brand/hashima_logo_1024_black.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr style="background-color: #000000">
+    <td>
+      <img src="brand/svg-hashima_icon_1024_transparent.svg" width="200" height="auto"/><br/>
+    </td>
+    <td>
+      <img src="brand/svg-hashima_logo_1024_white.svg" width="200" height="auto"/><br/>
+    </td>
   </tr>
   <tr style="background-color: #000000">
-    <td><img src="brand/hashima_icon_1024_transparent.svg" width="200" height="auto"/></td>
-    <td><img src="brand/hashima_logo_1024_white.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
   </tr>
 </table>
 
@@ -31,16 +74,51 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 <table>
   <tr>
-    <th>Icon</th>
-    <th>Wordmark</th>
+    <td><img src="brand/gif-ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/svg-ccs_logo_1024_black.svg" width="200" height="auto"/></td>
   </tr>
   <tr>
-    <td><img src="brand/ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
-    <td><img src="brand/ccs_word_1024_black.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr style="background-color: #000000">
+    <td><img src="brand/gif-ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/svg-ccs_logo_1024_white.svg" width="200" height="auto"/></td>
   </tr>
   <tr style="background-color: #000000">
-    <td><img src="brand/ccs_icon_400_loop_transparent.gif" width="200" height="auto"/></td>
-    <td><img src="brand/ccs_word_1024_white.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
   </tr>
 </table>
 
@@ -50,16 +128,51 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 <table>
   <tr>
-    <th>Icon</th>
-    <th>Wordmark</th>
+    <td><img src="brand/gif-ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/svg-ccs_logo_1024_black.svg" width="200" height="auto"/></td>
   </tr>
   <tr>
-    <td><img src="brand/ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
-    <td><img src="brand/ccs_word_1024_black.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr style="background-color: #000000">
+    <td><img src="brand/gif-ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
+    <td><img src="brand/svg-ccs_logo_1024_white.svg" width="200" height="auto"/></td>
   </tr>
   <tr style="background-color: #000000">
-    <td><img src="brand/ccs_icon_400_pause_transparent.gif" width="200" height="auto"/></td>
-    <td><img src="brand/ccs_word_1024_white.svg" width="200" height="auto"/></td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
+    <td>
+      <strong>
+        <a href="#">.SVG 🡥</a>
+      </strong> /
+      <strong>
+        <a href="#">.PNG 🡥</a>
+      </strong>
+    </td>
   </tr>
 </table>
 
@@ -69,6 +182,7 @@ Brand Kit for Hashima Islands, a DayZ Modded Map inspired by Hashima, commonly c
 
 
 **Hashima Islands:** **[Kosugi Maru 🡥](https://fonts.google.com/specimen/Kosugi+Maru)** Designed by MOTOYA
+
 **CreepyCrappyShow:** **[Clarendon 🡥](https://fonts.adobe.com/fonts/clarendon-text)** Designed by Patrick Griffin
 
 </small>
